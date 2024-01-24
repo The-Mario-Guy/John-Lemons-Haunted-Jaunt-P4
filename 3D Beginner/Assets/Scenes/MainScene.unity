@@ -216,6 +216,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6544844728107233661, guid: 9fb92de2c1f89422f9285855c94499e9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6544844728107330909, guid: 9fb92de2c1f89422f9285855c94499e9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -595,6 +600,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6544844728107233661, guid: 9fb92de2c1f89422f9285855c94499e9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6544844728107330909, guid: 9fb92de2c1f89422f9285855c94499e9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -947,6 +957,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost 3
       objectReference: {fileID: 0}
+    - target: {fileID: 9199299446425882150, guid: 5bcad44b32a1041869fc7e16082b1226,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9199299446426178054, guid: 5bcad44b32a1041869fc7e16082b1226,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1263,6 +1278,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ghost 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9199299446425882150, guid: 5bcad44b32a1041869fc7e16082b1226,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9199299446426178054, guid: 5bcad44b32a1041869fc7e16082b1226,
         type: 3}
@@ -1635,6 +1655,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ghost 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9199299446425882150, guid: 5bcad44b32a1041869fc7e16082b1226,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9199299446426178054, guid: 5bcad44b32a1041869fc7e16082b1226,
         type: 3}
@@ -5371,6 +5396,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9199299446425882150, guid: 5bcad44b32a1041869fc7e16082b1226,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9199299446426178054, guid: 5bcad44b32a1041869fc7e16082b1226,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5539,6 +5569,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Gargoyle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6544844728107233661, guid: 9fb92de2c1f89422f9285855c94499e9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6544844728107330909, guid: 9fb92de2c1f89422f9285855c94499e9,
         type: 3}
